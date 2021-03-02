@@ -21,8 +21,12 @@ After installation, Create a virtual environment to install the things need to d
 
 ```
 # create virtual environment & activate
+# Windows
 python -m venv venv
 venv\Scripts\activate
+# Mac
+virtualenv venv --python=python3.8
+source venv/bin/activate
 
 # install PyTorch
 https://pytorch.org/get-started/locally/
@@ -56,3 +60,24 @@ check predicted pattern /
 
 refine page design /
 replace with a better model
+   
+   
+## Deployed Website
+Please access the following url to see our website deployed: [Fastock](https://fastock8.8654fpp9j3cl6.ap-northeast-2.cs.amazonlightsail.com/)
+
+## Machine Learning Model
+Our model was trained using a library called Fastai. It is able to classify 8 different stock patterns, and has an accuracy of 95.43%
+To see the model, please visit the following link: [Fastock Machine Learning Model](https://github.com/cindia3704/Peoplespace_Exercises/tree/main/StockPatternClassifierImproved2_Grouped_balancegroup)
+
+## Team Members 
+### Backend
+- [Jisoo "Cindia" Kim](https://github.com/cindia3704)
+- [Helen Ko](https://github.com/Koeunseooooo)
+- [Yura Seo](https://github.com/yulaseo)
+- [DongJun Shin](https://github.com/NewDongJun)
+### Front-end
+- [Ribi Yu](https://github.com/yukyeongmin)
+- [Lucy Bae](https://github.com/sohyunbae1231)
+- [Rosaline Shin](https://github.com/songaong8006)
+- [Ally Lee](https://github.com/HyunJin0505)
+
