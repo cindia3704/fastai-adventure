@@ -76,7 +76,7 @@ To see the model, please visit the following link: [Fastock Machine Learning Mod
 - [Yura Seo](https://github.com/yulaseo)
 - [DongJun Shin](https://github.com/NewDongJun)
 ### Front-end
-- [Ribi Yu](https://github.com/yukyeongmin)
+- [Fibi Yu](https://github.com/yukyeongmin)
 - [Lucy Bae](https://github.com/sohyunbae1231)
 - [Rosaline Shin](https://github.com/songaong8006)
 - [Ally Lee](https://github.com/HyunJin0505)
